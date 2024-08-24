@@ -42,6 +42,18 @@ Branching allows you to develop features, fix bugs or safely experiment with new
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 Forking is a new repository that shares code and visibility settings with the original upstream repository
+
+Unlike forking which creates a separate copy on a remote server, cloning downloads the entire repository onto your computer which makes you work on the code locally, make changes and contribute to the projecyt without needing continuous internet access
+Forking creates your own copy of a repository in a remote location which will be able to contribute changes to your copy of the repository without affecting the original repository
+
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
+Issues on Github are items you can create in a repository to plan, discuss and track work. You can use issues to track work, give or receive feedback
+Project boards is a customized spreadsheet that integrates with your issues and pull requests on Github, automatically staying up to date with the information on Github
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
+Common challenges associated with using Githyb for version control
+Reluctance to change existing processes
+Unfamiliarity with version control concepts and workflow
+Lack of agreed upon best practices
+Slow initial practices
+
